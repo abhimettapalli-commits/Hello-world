@@ -12,6 +12,6 @@ This is my first expository
 *Hello World - My First Repository*
 
 ## Description
-~~First time ussing this feature!!!
+***First time ussing this feature!!!***
 
 ## Tools Used
