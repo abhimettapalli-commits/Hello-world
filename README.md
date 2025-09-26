@@ -9,4 +9,9 @@ This is my first expository
 - [ADDITONAL INFORMATION](#Additonal-Information)
 
 ## Project Title
-*Hello World*
+*Hello World - My First Repository*
+
+## Description
+~~First time ussing this feature!!!
+
+## Tools Used
