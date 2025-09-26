@@ -6,4 +6,6 @@ This is my first expository
 - [DESCRIPTION](#Description)
 - [TOOLS USED](#Files-Used)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
-- [ADDITONAL 
+- [ADDITONAL INFORMATION](#Additonal-Information)
+
+## Project Title
